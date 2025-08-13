@@ -1,2 +1,2 @@
 # Real-Estate-Analysis-Using-Power-Bi
-![Real Estate Analysis Dashboard](Picture1.png)
+![Dashboard Preview](Picture1.jpg)
